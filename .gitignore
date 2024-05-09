@@ -76,8 +76,6 @@ DerivedDataCache/
 
 **/Content/*
 !**/Content/Blueprints/
-!**/Content/ThirdPerson/
-!**/Content/LevelPrototyping/
 !**/Content/Characters/
 !**/Content/Platformer/
 !**/Content/MyContent/
